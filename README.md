@@ -9,4 +9,4 @@
 - Quiz (เดี่ยว ถามในห้อง) 5%
 - GitHub 5%
 
-  Final Score = Score * %attendance
+  Final Score = Score * %attendance :skull::skull::skull:
