@@ -1,4 +1,4 @@
-# BSC_DPDM23 :moai:
+# BSC_DPDM23 :trollface::trollface:
 - Data Preparation And Data Mining 2023
 - ชื่อ นายตะวัน เบ้าหล่อเพชร รหัสนักศึกษา 643020501-6 
 # Score
