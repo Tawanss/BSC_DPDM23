@@ -11,7 +11,7 @@
 
   Final Score = Score * %attendance :skull::skull::skull:
   
-#HOME WORK
+# HOME WORK
 HW1 Association Rule  
 HW2 Decision Tree
 HW3
