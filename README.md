@@ -11,7 +11,7 @@
 
   Final Score = Score * %attendance :skull::skull::skull:
   
-# HOME WORK
+# ✨HOME WORK✨
 - HW1 Association Rule
   [code](https://github.com/Tawanss/BSC_DPDM23/blob/46ede5b9e9d895513dbac7726712d95c8fbf9510/Frequent_Patterns_(Association_Rules).ipynb)
   and[สไลด์นำเสนอ ](https://drive.google.com/file/d/15i4MAEVaUnUO_0wkAdu9Rs1YoR832sDX/view?usp=sharing)
@@ -26,7 +26,7 @@
 - HW5 perceptron algorithm
   [https://github.com/Tawanss/BSC_DPDM23/blob/e9da44b591353291a734bc470e80519757d4f477/hw5%20dataminning.pdf]
 
-# Final Project
+# ✨Final Project✨
 Project กลุ่ม 3 (association rule and dicission tree)ทองประเสริฐ + กลุ้ม
 **สมาชิกกลุ่ม**
 + นางสาวขวัญสวรรค์ ทองประเสริฐ
