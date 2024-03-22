@@ -13,7 +13,8 @@
   
 # HOME WORK
 - HW1 Association Rule
-  [https://github.com/Tawanss/BSC_DPDM23/blob/46ede5b9e9d895513dbac7726712d95c8fbf9510/Frequent_Patterns_(Association_Rules).ipynb]  
+  [code](https://github.com/Tawanss/BSC_DPDM23/blob/46ede5b9e9d895513dbac7726712d95c8fbf9510/Frequent_Patterns_(Association_Rules).ipynb)
+  and[สไลด์นำเสนอ ](https://drive.google.com/file/d/15i4MAEVaUnUO_0wkAdu9Rs1YoR832sDX/view?usp=sharing)
 - HW2 Decision Tree
   [https://github.com/Tawanss/BSC_DPDM23/blob/e9da44b591353291a734bc470e80519757d4f477/hw2]
 - HW3 criterion and maxleafnode 1
