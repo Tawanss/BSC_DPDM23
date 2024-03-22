@@ -24,3 +24,19 @@
   [presentation](https://drive.google.com/file/d/1L9dank5ubUxboi58C_l6VBtVqnNcjtC6/view?usp=sharing)
 - HW5 perceptron algorithm
   [https://github.com/Tawanss/BSC_DPDM23/blob/e9da44b591353291a734bc470e80519757d4f477/hw5%20dataminning.pdf]
+
+# Final Project
+Project กลุ่ม 3 (association rule and dicission tree)ทองประเสริฐ + กลุ้ม
+**สมาชิกกลุ่ม**
++ นางสาวขวัญสวรรค์ ทองประเสริฐ
++ นางสาวนริศรา โยธาจันทร์
++ นางสาวนรีกานต์ ปัญญารักษ์
++ นางสาวพิมพิกา ยอดศรี
++ นายตะวัน เบ้าหล่อเพชร
++ นายธนธิป อินทรคีรี
++ นายพุทธิพงศ์ ยางนอก 
++ นายศตรวรรษ มูลสันเที๊ยะ
+
+รายละเอียด
++ [SlidePresentation](https://www.canva.com/design/DAF9xVROj5g/MU3QyOEiNPy-GS3r-zhv9w/view?utm_content=DAF9xVROj5g&utm_campaign=designshare&utm_medium=link&utm_source=editor)
++ Code [FinalProject](https://github.com/Tawanss/BSC_DPDM23/blob/607ce1bd2924d457fe69509313af9a7c921a951e/Final_Project.ipynb)
