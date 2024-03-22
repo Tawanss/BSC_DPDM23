@@ -19,7 +19,8 @@
 - HW3 criterion and maxleafnode 1
    [code](https://github.com/Tawanss/BSC_DPDM23/blob/e9da44b591353291a734bc470e80519757d4f477/Classification.ipynb)
   and [Presentation](https://www.canva.com/design/DAF561Utz_c/RYNUqMlrxZt1t8XVU4jZfg/edit?utm_content=DAF561Utz_c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- HW4 criterion and maxleafnode 2
-  [:seedling:] [code](https://github.com/Tawanss/BSC_DPDM23/blob/e9da44b591353291a734bc470e80519757d4f477/HW4_criterionmax-leaf-nodes.pdf)
+- HW4 criterion and maxleafnode 2 (หอยหลอด x กลุ้ม)
+  [เขียนมือ](https://github.com/Tawanss/BSC_DPDM23/blob/e9da44b591353291a734bc470e80519757d4f477/HW4_criterionmax-leaf-nodes.pdf)
+  [presentation](https://drive.google.com/file/d/1L9dank5ubUxboi58C_l6VBtVqnNcjtC6/view?usp=sharing)
 - HW5 perceptron algorithm
   [https://github.com/Tawanss/BSC_DPDM23/blob/e9da44b591353291a734bc470e80519757d4f477/hw5%20dataminning.pdf]
