@@ -12,7 +12,8 @@
   Final Score = Score * %attendance :skull::skull::skull:
   
 # HOME WORK
-- HW1 Association Rule  
+- HW1 Association Rule
+  [https://github.com/Tawanss/BSC_DPDM23/blob/46ede5b9e9d895513dbac7726712d95c8fbf9510/Frequent_Patterns_(Association_Rules).ipynb]  
 - HW2 Decision Tree
 - HW3 criterion and maxleafnode 1
 - HW4 criterion and maxleafnode 2
