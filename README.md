@@ -12,8 +12,8 @@
   Final Score = Score * %attendance :skull::skull::skull:
   
 # HOME WORK
--HW1 Association Rule  
--HW2 Decision Tree
--HW3
--HW4
--HW5 perceptron algorithm
+- HW1 Association Rule  
+- HW2 Decision Tree
+- HW3
+- HW4
+- HW5 perceptron algorithm
