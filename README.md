@@ -39,5 +39,5 @@ Project กลุ่ม 3 (association rule and dicission tree)ทองปร�
 + นายศตรวรรษ มูลสันเที๊ยะ
 
 รายละเอียด
-+ [SlidePresentation](https://www.canva.com/design/DAF9xVROj5g/MU3QyOEiNPy-GS3r-zhv9w/view?utm_content=DAF9xVROj5g&utm_campaign=designshare&utm_medium=link&utm_source=editor)
++ [SlidePresentation](https://drive.google.com/file/d/10KdF044WO9xh_3yiY5KN7Ce80_b8Ervp/view?usp=sharing)
 + Code [FinalProject](https://github.com/Tawanss/BSC_DPDM23/blob/607ce1bd2924d457fe69509313af9a7c921a951e/Final_Project.ipynb)
