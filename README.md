@@ -14,6 +14,6 @@
 # HOME WORK
 - HW1 Association Rule  
 - HW2 Decision Tree
-- HW3
-- HW4
+- HW3 criterion and maxleafnode 1
+- HW4 criterion and maxleafnode 2
 - HW5 perceptron algorithm
