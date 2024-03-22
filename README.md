@@ -42,5 +42,5 @@ Project กลุ่ม 3 (association rule and dicission tree)ทองปร�
 + [SlidePresentation](https://drive.google.com/file/d/10KdF044WO9xh_3yiY5KN7Ce80_b8Ervp/view?usp=sharing)
 + Code [FinalProject](https://github.com/Tawanss/BSC_DPDM23/blob/607ce1bd2924d457fe69509313af9a7c921a951e/Final_Project.ipynb)
 
-# note for final
+# ⚡ note for final⚡ 
  [final_note](https://github.com/Tawanss/BSC_DPDM23/blob/7ee815bec34eb7158e804f09f164cd76194fb654/Final%20%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B.pdf)
