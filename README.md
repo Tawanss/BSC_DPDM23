@@ -11,5 +11,9 @@
 
   Final Score = Score * %attendance :skull::skull::skull:
   
-Project กลุ่ม 3 ทองประเสริฐ + กลุ้ม
-
+#HOME WORK
+HW1 Association Rule  
+HW2 Decision Tree
+HW3
+HW4
+HW5 perceptron algorithm
